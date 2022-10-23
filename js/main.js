@@ -11,18 +11,18 @@ class Producto {
   }
 }
 
-const cocaCola = new Producto(1, "Coca cola", 250, "/img/cocacola.jpg")
-const pepsi = new Producto(2, "Pepsi", 250, "/img/pepsi.jpg")
+const cocaCola = new Producto(1, "Coca cola", 250, "../img/cocacola.jpg")
+const pepsi = new Producto(2, "Pepsi", 250, "../img/pepsi.jpg")
 const sprite = new Producto(3, "Sprite", 250, "/img/sprite.jpg")
-const fanta = new Producto(4, "Fanta", 250, "/img/fanta.jpg")
-const laysClasica = new Producto(5, "Lays Clasica", 180, "/img/laysclasica.jpg")
-const cheetos = new Producto(6, "Cheetos", 180, "/img/cheetos.jpg")
-const milkaOreo = new Producto(7, "Milka Oreo", 120, "/img/milkaoreo.jpg")
-const kitkat = new Producto(8, "Kitkat", 100, "/img/kitkat.jpg")
-const rocklets = new Producto(9, "Rocklets", 100, "/img/rocklets.jpg")
-const alfajorPepitos = new Producto(10, "Alfajor Pepitos", 100, "/img/alfajorpepitos.jpg")
-const mantecol = new Producto(11, "Mantecol", 100, "/img/mantecol.jpg")
-const kinder = new Producto(12, "Kinder", 100, "/img/chocolatekinder.jpg")
+const fanta = new Producto(4, "Fanta", 250, "../img/fanta.jpg")
+const laysClasica = new Producto(5, "Lays Clasica", 180, "../img/laysclasica.jpg")
+const cheetos = new Producto(6, "Cheetos", 180, "../img/cheetos.jpg")
+const milkaOreo = new Producto(7, "Milka Oreo", 120, "../img/milkaoreo.jpg")
+const kitkat = new Producto(8, "Kitkat", 100, "../img/kitkat.jpg")
+const rocklets = new Producto(9, "Rocklets", 100, "../img/rocklets.jpg")
+const alfajorPepitos = new Producto(10, "Alfajor Pepitos", 100, "../img/alfajorpepitos.jpg")
+const mantecol = new Producto(11, "Mantecol", 100, "../img/mantecol.jpg")
+const kinder = new Producto(12, "Kinder", 100, "../img/chocolatekinder.jpg")
 
 // Array de productos
 
